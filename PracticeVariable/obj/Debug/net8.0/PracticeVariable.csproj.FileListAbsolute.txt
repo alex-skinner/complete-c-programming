@@ -1,0 +1,15 @@
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\bin\Debug\net8.0\PracticeVariable.exe
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\bin\Debug\net8.0\PracticeVariable.deps.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\bin\Debug\net8.0\PracticeVariable.runtimeconfig.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\bin\Debug\net8.0\PracticeVariable.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\bin\Debug\net8.0\PracticeVariable.pdb
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.AssemblyInfoInputs.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.AssemblyInfo.cs
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.csproj.CoreCompileInputs.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.sourcelink.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\refint\PracticeVariable.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.pdb
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\PracticeVariable.genruntimeconfig.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\PracticeVariable\obj\Debug\net8.0\ref\PracticeVariable.dll
