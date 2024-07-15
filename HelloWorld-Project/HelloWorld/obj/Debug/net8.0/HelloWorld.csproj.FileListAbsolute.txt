@@ -1,0 +1,15 @@
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Developer\Work\DotNet\Complete-C-Programming\complete-c-programming\HelloWorld-Project\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
